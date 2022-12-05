@@ -19,6 +19,12 @@ Inspired by [AtProto TIDs](), but a bit simler.
 TSID.timestamp("3jj55ss4wcs2n") // 1670265293599
 ```
 
+## Install
+
+```
+npm i tsid
+```
+
 ## Usage
 
 ```js
